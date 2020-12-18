@@ -32,7 +32,7 @@ import static org.mockito.ArgumentMatchers.any;
 //**********
 // Note security is handled at the controller, hence we do not need to worry about security here!
 //**********
-public class BookServiceImplTest {
+public class BookServiceImplTestNoDB {
 
 	private final List<Book> listBooks = new ArrayList<>();
 
